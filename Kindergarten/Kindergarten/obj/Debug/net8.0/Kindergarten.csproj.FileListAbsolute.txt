@@ -140,3 +140,4 @@ C:\Users\ronald\Desktop\Kindergarten\Kindergarten\Kindergarten\obj\Debug\net8.0\
 C:\Users\ronald\Desktop\Kindergarten\Kindergarten\Kindergarten\obj\Debug\net8.0\Kindergarten.pdb
 C:\Users\ronald\Desktop\Kindergarten\Kindergarten\Kindergarten\obj\Debug\net8.0\Kindergarten.genruntimeconfig.cache
 C:\Users\ronald\Desktop\Kindergarten\Kindergarten\Kindergarten\obj\Debug\net8.0\ref\Kindergarten.dll
+C:\Users\ronald\Desktop\Kindergarten\Kindergarten\Kindergarten\obj\Debug\net8.0\Kindergarten.sourcelink.json

@@ -517,6 +517,14 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\wwwroot\\pictures\\20241111201811670.png",
+      "PackagePath": "staticwebassets\\pictures\\20241111201811670.png"
+    },
+    {
+      "Id": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\wwwroot\\pictures\\20241111201824033.png",
+      "PackagePath": "staticwebassets\\pictures\\20241111201824033.png"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Kindergarten.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

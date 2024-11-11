@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kXLVtQZ1oOJhK3QvBDWbQKCqYOC5okOQGZiONp/2oOg=",
+  "Hash": "eaHvD3vl8Bh1Vrf0NdqkieqM0zX0nb9ZIcQ5cNQdvik=",
   "Source": "Kindergarten",
   "BasePath": "_content/Kindergarten",
   "Mode": "Default",
@@ -2485,6 +2485,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\wwwroot\\pictures\\20241111201811670.png",
+      "SourceId": "Kindergarten",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\wwwroot\\",
+      "BasePath": "_content/Kindergarten",
+      "RelativePath": "pictures/20241111201811670.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pictures\\20241111201811670.png"
+    },
+    {
+      "Identity": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\wwwroot\\pictures\\20241111201824033.png",
+      "SourceId": "Kindergarten",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\wwwroot\\",
+      "BasePath": "_content/Kindergarten",
+      "RelativePath": "pictures/20241111201824033.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pictures\\20241111201824033.png"
     }
   ]
 }

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|c:\\users\\ronald\\desktop\\kindergarten\\kindergarten\\kindergarten\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|solutionrelative:kindergarten\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|c:\\users\\ronald\\desktop\\kindergarten\\kindergarten\\kindergarten\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|solutionrelative:kindergarten\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,52 +15,20 @@
       "RelativeMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|solutionrelative:kindergarten\\views\\groups\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|c:\\users\\ronald\\desktop\\kindergarten\\kindergarten\\kindergarten\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|solutionrelative:kindergarten\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|c:\\users\\ronald\\desktop\\kindergarten\\kindergarten\\kindergarten\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|solutionrelative:kindergarten\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|c:\\users\\ronald\\desktop\\kindergarten\\kindergarten\\kindergarten\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|solutionrelative:kindergarten\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|c:\\users\\ronald\\desktop\\kindergarten\\kindergarten\\kindergarten\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|solutionrelative:kindergarten\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|c:\\users\\ronald\\desktop\\kindergarten\\kindergarten\\kindergarten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|solutionrelative:kindergarten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|c:\\users\\ronald\\desktop\\kindergarten\\kindergarten\\kindergarten\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|solutionrelative:kindergarten\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|c:\\users\\ronald\\desktop\\kindergarten\\kindergarten\\kindergarten\\views\\groups\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|solutionrelative:kindergarten\\views\\groups\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|c:\\users\\ronald\\desktop\\kindergarten\\kindergarten\\kindergarten\\views\\groups\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|solutionrelative:kindergarten\\views\\groups\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|c:\\users\\ronald\\desktop\\kindergarten\\kindergarten\\kindergarten\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|solutionrelative:kindergarten\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|c:\\users\\ronald\\desktop\\kindergarten\\kindergarten\\kindergarten\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|solutionrelative:kindergarten\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|c:\\users\\ronald\\desktop\\kindergarten\\kindergarten\\kindergarten\\views\\groups\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|solutionrelative:kindergarten\\views\\groups\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|c:\\users\\ronald\\desktop\\kindergarten\\kindergarten\\kindergarten\\models\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|solutionrelative:kindergarten\\models\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|c:\\users\\ronald\\desktop\\kindergarten\\kindergarten\\kindergarten\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|solutionrelative:kindergarten\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|c:\\users\\ronald\\desktop\\kindergarten\\kindergarten\\kindergarten\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|solutionrelative:kindergarten\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|c:\\users\\ronald\\desktop\\kindergarten\\kindergarten\\kindergarten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E03483B-EBE5-4BFB-B31C-9009FB941E6F}|Kindergarten\\Kindergarten.csproj|solutionrelative:kindergarten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,30 +38,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Kindergarten\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Kindergarten\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "Kindergarten\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "Kindergarten\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAA4sAAAAAAAAAAAiwDUsAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-11T18:23:29.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\Groups\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Kindergarten\\Views\\Groups\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\Groups\\Edit.cshtml",
+              "RelativeToolTip": "Kindergarten\\Views\\Groups\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T16:07:36.986Z",
+              "WhenOpened": "2024-11-11T18:17:10.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\Groups\\Create.cshtml",
+              "RelativeDocumentMoniker": "Kindergarten\\Views\\Groups\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\Groups\\Create.cshtml",
+              "RelativeToolTip": "Kindergarten\\Views\\Groups\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAYAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T12:26:08.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\Groups\\Index.cshtml",
+              "RelativeDocumentMoniker": "Kindergarten\\Views\\Groups\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\Groups\\Index.cshtml",
+              "RelativeToolTip": "Kindergarten\\Views\\Groups\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T17:39:48.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Kindergarten\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Kindergarten\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGoAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-11T16:05:54.003Z",
               "EditorCaption": ""
@@ -104,146 +115,20 @@
               "RelativeToolTip": "Kindergarten\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T11:44:01.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T11:44:01.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Kindergarten\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Kindergarten\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-11T15:25:51.05Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\Groups\\Create.cshtml",
-              "RelativeDocumentMoniker": "Kindergarten\\Views\\Groups\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\Groups\\Create.cshtml",
-              "RelativeToolTip": "Kindergarten\\Views\\Groups\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-04T12:26:08.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Kindergarten\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Kindergarten\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T16:07:38.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Kindergarten\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Kindergarten\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T16:07:50.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\appsettings.json",
-              "RelativeDocumentMoniker": "Kindergarten\\appsettings.json",
-              "ToolTip": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\appsettings.json",
-              "RelativeToolTip": "Kindergarten\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-11T16:06:11.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GroupDto.cs",
-              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Models\\GroupDto.cs",
-              "RelativeDocumentMoniker": "Kindergarten\\Models\\GroupDto.cs",
-              "ToolTip": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Models\\GroupDto.cs",
-              "RelativeToolTip": "Kindergarten\\Models\\GroupDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T12:22:10.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\Groups\\Index.cshtml",
-              "RelativeDocumentMoniker": "Kindergarten\\Views\\Groups\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\Groups\\Index.cshtml",
-              "RelativeToolTip": "Kindergarten\\Views\\Groups\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-04T12:00:37.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\Groups\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Kindergarten\\Views\\Groups\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Views\\Groups\\Edit.cshtml",
-              "RelativeToolTip": "Kindergarten\\Views\\Groups\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-04T12:55:04.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GroupsController.cs",
-              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Controllers\\GroupsController.cs",
-              "RelativeDocumentMoniker": "Kindergarten\\Controllers\\GroupsController.cs",
-              "ToolTip": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Controllers\\GroupsController.cs",
-              "RelativeToolTip": "Kindergarten\\Controllers\\GroupsController.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAmwJsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T11:59:39.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Group.cs",
-              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Models\\Group.cs",
-              "RelativeDocumentMoniker": "Kindergarten\\Models\\Group.cs",
-              "ToolTip": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Models\\Group.cs",
-              "RelativeToolTip": "Kindergarten\\Models\\Group.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T11:46:29.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Services\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Kindergarten\\Services\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\ronald\\Desktop\\Kindergarten\\Kindergarten\\Kindergarten\\Services\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Kindergarten\\Services\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T11:42:58.462Z"
             }
           ]
         }
